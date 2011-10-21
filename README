@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+ About
+-------------------------------------------------------------------------------
+
+Simple PHP proxy utility to retrieve the contents of a given URL. Mainly used
+for supporting X-Domain calls which are not allowed on the browser. 
